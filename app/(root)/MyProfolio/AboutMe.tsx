@@ -95,7 +95,7 @@ due to my intrest in crytography, this is excluding book i might read because of
 
 
 
-<p>  This plain website is influenced by  <a  className="underline text-blue-600 hover:text-blue-800"href="https://sigilwen.ca/"> Sigil Wen's</a> and <a  className="underline text-blue-600 hover:text-blue-800" href="https://shreybirmiwal.vercel.app/"> Shrey Birmiwal's</a> websites </p> <br /> 
+<p>  This plain website is influenced by  <a  className="underline text-blue-600 hover:text-blue-800"href="https://sigilwen.ca/"> Sigil Wen</a> and <a  className="underline text-blue-600 hover:text-blue-800" href="https://shreybirmiwal.vercel.app/"> Shrey Birmiwal</a> websites </p> <br /> 
 </div>
   
     </div>
