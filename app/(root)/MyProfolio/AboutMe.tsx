@@ -45,22 +45,22 @@ const AboutMe = () => {
 
 <div  className="text-left mt-4  ">  
 
-  <ul>
+  
 
 
 <p >  Hi i love to go with the pen name  Mìmì tiānfù, i love to write to myself but my first and middle names are Prosper Chidera respectively  </p> <br />
 
 <p>  Am a Nigerian student </p> <br />
 
-<p>  Am keen on web and blockchain.  Currently I also read crytography for fun (Since i found a way to get most books i want)  </p> <br />
+<p>  Am keen on web and blockchain.  Currently I also read crytography for fun since i found a way to get most books i want  </p> <br />
 
 
 <p>  I have the best mum  and i lovely father who left when i was younger to be in heaven  </p>  <br />
 
-<p>   Am the &quot; non technical in a technical team&quot; </p>  <br />
+<p>   Am the  non technical in a technical team </p>  <br />
 
-<p> Every one have their struggles, with mine i can tell you &quot; poverty is a gravity&quot;, but if humans can
-  defy gravity with wings and rockets so anyone can defy &quot;poverty&quot; . I would keep navigating </p>   <br />
+<p> Every one have their struggles, with mine i can tell you  poverty is a gravity, but if humans can
+  defy gravity with wings and rockets so anyone can defy poverty . I would keep navigating </p>   <br />
 
 
 <p>  Thank God i later got a laptop and every day i pray that my future smiles at me </p>   <br />
@@ -91,11 +91,11 @@ due to my intrest in crytography, this is excluding book i might read because of
 
 
 
-</ul>
 
 
 
-<p> &gt; This plain website is influenced by  <a  className="underline text-blue-600 hover:text-blue-800"href="https://sigilwen.ca/"> Sigil Wen's</a> and <a  className="underline text-blue-600 hover:text-blue-800" href="https://shreybirmiwal.vercel.app/"> Shrey Birmiwal's</a> websites </p> <br /> 
+
+<p>  This plain website is influenced by  <a  className="underline text-blue-600 hover:text-blue-800"href="https://sigilwen.ca/"> Sigil Wen's</a> and <a  className="underline text-blue-600 hover:text-blue-800" href="https://shreybirmiwal.vercel.app/"> Shrey Birmiwal's</a> websites </p> <br /> 
 </div>
   
     </div>
