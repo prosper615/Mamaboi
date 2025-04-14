@@ -50,9 +50,12 @@ const ReadingList = () => {
               height={200} 
               className="object-cover rounded-lg mb-4"
             />
-            <h2 className="text-lg font-bold">{book.alt}</h2>
+            
           </div>
         ))}
+        
+        and a few more
+        
       </div>
 
 
