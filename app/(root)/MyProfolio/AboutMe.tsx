@@ -52,7 +52,7 @@ const AboutMe = () => {
 
 <p>  Am a Nigerian student </p> <br />
 
-<p>  Am keen on web and blockchain.  Currently I also read crytography for fun since i found a way to get most books i want  </p> <br />
+<p>  Am keen on web and blockchain. I also read crytography for fun since i found a way to get most books i want  </p> <br />
 
 
 <p>  I have the best mum  and i lovely father who left when i was younger to be in heaven  </p>  <br />
@@ -71,7 +71,7 @@ const AboutMe = () => {
 
 <p>    I love reading what interest me, am rrently and slowly reading for fun the books on 
 <Link  href= "/ReadingList"  className="underline text-blue-600 hover:text-blue-800">  my  reading list</Link>
-due to my intrest in crytography, this is excluding book i might read because of school work
+due to my interest in crytography, this is excluding book i might read because of school work
 
   </p> <br />
 
@@ -87,7 +87,7 @@ due to my intrest in crytography, this is excluding book i might read because of
 </a> </p>  <br />
 
 
-<p> I have a dream of being a software/crytography engineer, and i am working towards it </p>  <br />
+<p> I have a dream of being a software/blockchain/crytography engineer, and i am working towards it </p>  <br />
 
 
 
