@@ -69,7 +69,7 @@ const AboutMe = () => {
 <p>  I just started out and am always eager to learn</p> <br />
 
 
-<p>    I love reading what interest me, am rrently and slowly reading for fun the books on 
+<p>    I love reading what interest me, am currently and slowly reading for fun the books on 
 <Link  href= "/ReadingList"  className="underline text-blue-600 hover:text-blue-800">  my  reading list</Link>
 due to my interest in crytography, this is excluding book i might read because of school work
 
